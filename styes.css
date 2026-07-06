@@ -1,0 +1,35 @@
+body {
+  background-color: coral;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.text {
+  font-size: 30px;
+  color: #fff;
+  font-family: monospace;
+  text-transform: capitalize;
+}
+
+input {
+  margin-top: 30px;
+  padding: 20px;
+  border: none;
+  outline: 2px solid royalblue;
+  width: 70px;
+  font-size: 18px;
+  border-radius: 10px;
+}
+
+p{
+    text-transform: capitalize;
+    color: white;
+    font-size: 19px;
+    width: 400px;
+    background-color: royalblue;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
